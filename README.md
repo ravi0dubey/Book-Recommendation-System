@@ -25,4 +25,5 @@ We will create a table using books and rating dataset with books in row and user
 Criteria We are not going to choose all users and books
 1. only those users who has given atleast ratings to 200 books </br>
 2. but only those books who has got 50 ratings atleast or popular 50 books </br>
-![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/0aada47d-0e52-4ff5-93a4-f56cd2ba3fca)
+![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/20678e54-aa9d-41ba-aed7-51df2f920ca5)
+
