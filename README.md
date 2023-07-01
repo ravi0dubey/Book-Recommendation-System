@@ -32,8 +32,8 @@ Criteria We are not going to choose all users and books
    Books-user pair which has many things in common will have lesser angle hence larger cosine value, while the ones with lesser similarity will be having greater angle and hense lesser cosine value</br>
    i.e cos 0 = 1, cos 45 = .71, cos90 = 0</br>
    
-   ![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/8eb19915-1de9-4873-82d1-e782bc036d24)
+   ![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/8eb19915-1de9-4873-82d1-e782bc036d24) </br>
 
 
-   Figure out the angle between 
+  Below snapshot shows the recommendation of 5 books based on book entered </br>
 ![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/3517ed64-ba68-4929-82ef-9d917816f36e)
