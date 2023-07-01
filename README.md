@@ -28,7 +28,7 @@ Criteria We are not going to choose all users and books
 1. only those users who has given atleast ratings to 200 books </br>
 2. only those books who has got 50 ratings atleast or popular 50 books </br>
 ![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/20678e54-aa9d-41ba-aed7-51df2f920ca5)
-3. Use **cosine similarity** function between the books and users. Internally consine similarity works as mentioned below
+3. Use **cosine similarity** function between the books and users. Internally consine similarity works as mentioned below </br>
    a. Using the above books-user table and plot the points on X and Y axis </br>
    b. Figure out the angle between the points </br>
    c. Calculate the cosine value of the angle </br>
