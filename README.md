@@ -36,4 +36,8 @@ Criteria We are not going to choose all users and books
 
 
   Below snapshot shows the recommendation of 5 books based on book entered </br>
-![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/3517ed64-ba68-4929-82ef-9d917816f36e)
+![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/3517ed64-ba68-4929-82ef-9d917816f36e) </br>
+
+![image](https://github.com/ravi0dubey/Book-Recommendation-System/assets/38419795/fb8a3d61-aac9-4bdd-84b3-28fbeaf53474)
+
+
