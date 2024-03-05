@@ -1,14 +1,15 @@
 # Book-Recommendation-System
 
 Types of Recommendation Systems
-1.	Popularity-based recommendation system
+1.	Popularity-based or Rank-based recommendation system
 Popular or best books are shown in the system. It is based on the formula.
+This kind of recommendation system is useful when we have **cold start** problem. Cold start refers to the issue when we get a new user into the system and the machine is **not** able to recommend books to the user, as the user did not have any historical interactions available in the dataset. In those cases, we can use a popular or rank-based recommendation system to recommend movies to the new user.
 
-2.	Collaborative Filtering
+3.	Collaborative Filtering
 The collaborative filtering method is based on gathering and analyzing data on users’ behavior. This includes the user’s online activities and predicting what they will like based on their similarity with other users.
 For example, if user A likes Apples, bananas, and Mango while user B likes Apple, Banana, and Jackfruit, they have similar interests. So, it is highly likely that A would like Jackfruit and B would enjoy Mango. This is how collaborative filtering takes place.
 
-3.	Content-Based Filtering
+4.	Content-Based Filtering
 
 Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. 
 
