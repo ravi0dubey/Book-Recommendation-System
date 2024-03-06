@@ -14,7 +14,6 @@ Content-based filtering methods are based on the description of a product and a 
 For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark. The central assumption of content-based filtering is that you will also like a similar item if you like a particular item.
 
 4.	**Hybrid Recommendation Systems**
-
 In hybrid recommendation systems, products are recommended using Popularity based, Content-based, and collaborative filtering simultaneously to suggest a broader range of products to customers. This recommendation system is up-and-coming and is said to provide more accurate recommendations than other recommender systems.
 
 ## Popularity Based Recommender System
