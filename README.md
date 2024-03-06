@@ -23,9 +23,9 @@ Top 50 books wwith highest average ratings will be displayed on home screen. Eac
 
 ## Collaborative Based Recommender System
 We will create a table using books and rating dataset with books in row and users in columns and what is the rating given by the user </br>
-It has two types
-a. User-User Collaborative filtering : is used to predict the books that a user might like based on the ratings given to books by other users who have similar tastes to the target user. </br>
-b. Item-Item Collaborative Filtering : (Books-Books) in this case  : it is used to predict the books that a user likes based on finding similarities between books that the user had rated and the target books.</br>
+It has two types </br>
+a. **User-User Collaborative filtering** : is used to predict the books that a user might like based on the ratings given to books by other users who have similar tastes to the target user. </br>
+b. **Item-Item Collaborative Filtering** : (Books-Books) in this case  : it is used to predict the books that a user likes based on finding similarities between books that the user had rated and the target books.</br>
 
 Criteria: We are not going to choose all users and books
 1. only those users who has given atleast ratings to 200 books </br>
