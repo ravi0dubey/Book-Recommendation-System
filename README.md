@@ -1,19 +1,19 @@
 # Book-Recommendation-System
 
 Types of Recommendation Systems
-1.	Popularity-based or Rank-based recommendation system
+1.	**Popularity-based or Rank-based recommendation system**
 Popular or best books are shown in the system. It is based on the formula.
 This kind of recommendation system is useful when we have **cold start** problem. Cold start refers to the issue when we get a new user into the system and the machine is **not** able to recommend books to the user, as the user did not have any historical interactions available in the dataset. In those cases, we can use a popular or rank-based recommendation system to recommend movies to the new user.
 
-3.	Collaborative Filtering
+2.	**Collaborative Filtering**
 The collaborative filtering method is based on gathering and analyzing data on users’ behavior. This includes the user’s online activities and predicting what they will like based on their similarity with other users.
 For example, if user A likes Apples, bananas, and Mango while user B likes Apple, Banana, and Jackfruit, they have similar interests. So, it is highly likely that A would like Jackfruit and B would enjoy Mango. This is how collaborative filtering takes place.
 
-4.	Content-Based Filtering
+3.	**Content-Based Filtering**
 Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. 
 For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark. The central assumption of content-based filtering is that you will also like a similar item if you like a particular item.
 
-4.	Hybrid Recommendation Systems
+4.	**Hybrid Recommendation Systems**
 
 In hybrid recommendation systems, products are recommended using Popularity based, Content-based, and collaborative filtering simultaneously to suggest a broader range of products to customers. This recommendation system is up-and-coming and is said to provide more accurate recommendations than other recommender systems.
 
