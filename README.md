@@ -13,21 +13,19 @@ This kind of recommendation system is useful when we have **cold start** problem
 ● Not personalized to users
 ● Only takes popularity into account
 
-Examples:
-1. Google News
-2. You tube trending videos
+_Examples_: Google News,  You tube trending videos
 
-3.	**Collaborative Filtering**
+2.	**Collaborative Filtering**
 The collaborative filtering method is based on gathering and analyzing data on users’ behavior. This includes the user’s online activities and predicting what they will like based on their similarity with other users.
 For example, if user A likes Apples, bananas, and Mango while user B likes Apple, Banana, and Jackfruit, they have similar interests. So, it is highly likely that A would like Jackfruit and B would enjoy Mango. This is how collaborative filtering takes place.
 a. **User-User Collaborative filtering** : is used to predict the books that a user might like based on the ratings given to books by other users who have similar tastes to the target user. </br>
 b. **Item-Item Collaborative Filtering** : (Books-Books) in this case  : it is used to predict the books that a user likes based on finding similarities between books that the user had rated and the target books.</br>
 
-5.	**Content-Based Filtering**
+3.	**Content-Based Filtering**
 Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. 
 For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark. The central assumption of content-based filtering is that you will also like a similar item if you like a particular item.
 
-6.	**Hybrid Recommendation Systems**
+4.	**Hybrid Recommendation Systems**
 In hybrid recommendation systems, products are recommended using Popularity based, Content-based, and collaborative filtering simultaneously to suggest a broader range of products to customers. This recommendation system is up-and-coming and is said to provide more accurate recommendations than other recommender systems.
 
 ## Popularity Based Recommender System
